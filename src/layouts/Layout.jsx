@@ -54,13 +54,25 @@ const Layout = ({ children }) => (
             font-family: ${theme.fontFamily.heading};
           }
 
+          .site {
+            display: flex;
+            min-height: 100vh;
+            flex-direction: column;
+          }
+
+          .site-content {
+            flex-grow: 1;
+          }
+
           ${headroom}
         `}
       />
       <SEO />
       <NavBar />
-      {children}
-      <Footer />
+      <div className="site">
+        <div className="site-content">{children}</div>
+        <Footer />
+      </div>
     </Fragment>
   </ThemeProvider>
 );
