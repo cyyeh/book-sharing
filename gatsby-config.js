@@ -60,6 +60,22 @@ module.exports = {
         icon: config.favicon,
       },
     },
+    /*{
+      resolve: `gatsby-plugin-i18next`,
+      options: {
+        availableLngs: ['zh-tw', 'en'],
+        fallbackLng: 'zh-tw',
+        saveMissing: true,
+        debug: true,
+      },
+    },*/
+    {
+      resolve: `gatsby-source-filesystem`,
+      options: {
+        path: `${__dirname}/locale`,
+        name: `locale`,
+      },
+    },
     'gatsby-plugin-offline',
   ],
 };

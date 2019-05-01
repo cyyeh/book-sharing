@@ -6,8 +6,8 @@ import { Layout, Container } from 'layouts';
 
 const About = center => (
   <Layout>
-    <Helmet title={'About Page'} />
-    <Header title="About Page">Gatsby Tutorial Starter</Header>
+    <Helmet title={'好書推薦網 | 了解更多'} />
+    <Header title="了解更多">好書推薦網如何運作</Header>
     <Container center={center}>
       <h3>
         If you would like to build this site completely from scratch, you can

@@ -4,7 +4,6 @@ import styled from '@emotion/styled';
 const Wrapper = styled.footer`
   position: relative;
   padding-top: 2rem;
-  bottom: 0;
   box-shadow: ${props => props.theme.shadow.footer};
   background: ${props => props.theme.gradient.leftToRight};
   font-family: ${props => props.theme.fontFamily.body};
@@ -25,8 +24,8 @@ const Footer = () => (
   <Wrapper>
     <Text>
       <span>
-        Gatsby Tutorial Starter -{' '}
-        <a href="https://justinformentin.com">Justin Formentin</a>
+        好書推薦網 -{' '}
+        <a href="https://chihyu.me/">ChihYu</a>
       </span>
     </Text>
   </Wrapper>

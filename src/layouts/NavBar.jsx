@@ -8,6 +8,9 @@ const StyledLink = styled(Link)`
   display: flex;
   font-weight: 700;
   align-items: center;
+  img {
+    margin-bottom: 0rem;
+  }
 `;
 
 const Nav = styled.nav`
@@ -33,9 +36,8 @@ const NavBar = () => (
       <img src={logo} alt="Gatsby Logo" />
     </StyledLink>
     <Nav>
-      <Link to="/">Home</Link>
-      <Link to="/blog">Blog</Link>
-      <Link to="/about">About</Link>
+      <Link to="/tags">分類</Link>
+      <Link to="/about">了解更多</Link>
     </Nav>
   </Headroom>
 );

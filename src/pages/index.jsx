@@ -24,8 +24,8 @@ const Index = ({ data }) => {
   const { edges } = data.allMarkdownRemark;
   return (
     <Layout>
-      <Helmet title={'Home Page'} />
-      <Header title="Home Page">Gatsby Tutorial Starter</Header>
+      <Helmet title={'好書推薦網 | 首頁'} />
+      <Header title="好書推薦網">用您最舒服的方式讀好書</Header>
       <PostWrapper>
         {edges.map(({ node }) => (
           <PostList
