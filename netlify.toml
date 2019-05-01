@@ -1,9 +1,9 @@
-[build]
-  command = "npm run build"
-  publish = "/public"
 [[redirects]]
   from = "https://books-sharing.netlify.com/"
   to = "https://sharingoodbooks.com/"
   status = 200
   force = true
-  headers = {X-From = "Netlify"}
+
+[build]
+  command = "npm run build"
+  publish = "/public"
