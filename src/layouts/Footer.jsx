@@ -11,6 +11,9 @@ const Wrapper = styled.footer`
   @media (max-width: ${props => props.theme.breakpoints.s}) {
     padding-top: 7rem;
   }
+  a {
+    color: yellow;
+  }
 `;
 
 const Text = styled.div`
