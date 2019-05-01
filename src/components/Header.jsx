@@ -35,8 +35,11 @@ const Text = styled.div`
   width: 100%;
   max-width: ${props => props.theme.layout.base};
   padding: 0 2rem;
-  margin-bottom: 3rem;
+  margin-top: 2rem;
   align-items: center;
+  h1 {
+    margin-bottom: 0rem;
+  }
 `;
 
 const Subtitle = styled.p`
