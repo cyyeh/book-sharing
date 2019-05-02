@@ -1,8 +1,8 @@
 ---
-path: "/post-three"
+path: "/post-four"
 cover: "./finance.jpg"
-date: "2018-10-17"
-title: "Post Number Three"
+date: "2019-05-02"
+title: "Post Number Four"
 tags: ['gatsby', 'news', 'other']
 published: true
 ---
