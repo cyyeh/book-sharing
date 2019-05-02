@@ -17,6 +17,12 @@ const PostSuggestion = styled.div`
   display: flex;
   align-items: center;
   margin: 1rem 3rem 0 3rem;
+  @media (max-width: ${props => props.theme.breakpoints.s}) {
+    h3 {
+      display: None;
+    }
+    margin: 1rem 3rem 1rem 3rem;
+  }
 `;
 
 const Post = ({ data, pageContext }) => {
