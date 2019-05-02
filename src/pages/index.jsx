@@ -34,7 +34,6 @@ const Index = ({ data }) => {
             path={node.frontmatter.path}
             title={node.frontmatter.title}
             date={node.frontmatter.date}
-            excerpt={node.excerpt}
           />
         ))}
       </PostWrapper>
@@ -56,7 +55,7 @@ Index.propTypes = {
               path: PropTypes.string.isRequired,
               title: PropTypes.string.isRequired,
               date: PropTypes.string.isRequired,
-              tags: PropTypes.array,
+              tags: PropTypes.array.isRequired,
             }),
           }),
         }).isRequired
