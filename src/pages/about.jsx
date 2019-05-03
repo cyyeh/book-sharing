@@ -34,7 +34,7 @@ const About = center => (
           <li><span style={boldStyle}>為何我推薦這本書？</span>：我會簡單扼要描述它吸引我的理由並且清楚說明它符合我所謂好書的條件在哪。</li>
           <li><span style={boldStyle}>這本書啟發了我什麼？</span>：讀完一本書若能有所啟發，那便是最大的禮物，而且是一輩子受用無盡的。</li>
           <li><span style={boldStyle}>參考資源</span>：這裡我會羅列相關文章或影片讓大家可以有更多的角度去了解這本書。</li>
-          <li><span style={boldStyle}>邀您親自去讀</span>：這裡我會羅列各式各樣的購買連結，正所謂貨比三家不吃虧。</li>
+          <li><span style={boldStyle}>邀您來讀</span>：這裡我會羅列各式各樣的購買連結，正所謂貨比三家不吃虧。</li>
         </ol>
       </h3>
       <h3>

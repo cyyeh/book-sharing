@@ -22,7 +22,7 @@ tags: ['心理學', '正向心理學', '積極心理學']
 - <a href="https://www.youtube.com/playlist?list=PLB_IG2h-5YEZQXWPjbN9Aba--wS9ml0B_" target="_blank">哈佛積極心理學課程影片</a>
 - <a href="https://www.zhihu.com/question/22437266" target="_blank">如何評價哈佛大學公開課：幸福課？</a>
 
-## 邀您親自去讀
+## 邀您來讀
 想讀原文書
 - 如果您是Amazon的用戶，歡迎使用<a href="https://amzn.to/2GUpni8" target="_blank">此連結購買</a>
 - 如果您是Google Play Books的用戶，歡迎使用<a href="https://play.google.com/store/books/details/Tal_Ben_Shahar_Happier?id=oJ3uZnRm2gsC&hl=zh_TW" target="_blank">此連結購買</a>
