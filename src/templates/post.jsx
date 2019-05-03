@@ -52,7 +52,7 @@ const Post = ({ data, pageContext }) => {
         <Content input={html} />
         <hr/>
         <h3>留言分享區</h3>
-        <h4 style={orangeFont}>十分歡迎大家將讀完的啟發分享出來，因為將自己所學寫下來並分享是很有效的學習方式喔！</h4>
+        <h4 style={orangeFont}>十分歡迎大家將讀完的啟發分享出來，因為分享自己所學是很有效的學習方式喔！</h4>
         <TalkyardCommentsIframe />
       </Container>
       <SuggestionBar>
