@@ -83,5 +83,11 @@ module.exports = {
         trackingId: "UA-102144742-4",
       },
     },
+    {
+      resolve: '@debiki/gatsby-plugin-talkyard',
+      options: {
+        talkyardServerUrl: 'https://comments-for-sharingoodbooks-com.talkyard.net'
+      }
+    },
   ],
 };

@@ -5,6 +5,7 @@ import PropTypes from 'prop-types';
 import { Layout, Container, Content } from 'layouts';
 import { TagsBlock, Header, SEO } from 'components';
 import '../styles/prism';
+import TalkyardCommentsIframe from '@debiki/gatsby-plugin-talkyard';
 
 const SuggestionBar = styled.div`
   display: flex;
@@ -25,6 +26,10 @@ const PostSuggestion = styled.div`
   }
 `;
 
+const orangeFont = {
+  color: "orange"
+};
+
 const Post = ({ data, pageContext }) => {
   const { next, prev } = pageContext;
   const post = data.markdownRemark;
@@ -43,8 +48,12 @@ const Post = ({ data, pageContext }) => {
       />
       <Header title={title} date={date} cover={image} />
       <Container>
-        <Content input={html} />
         <TagsBlock list={post.frontmatter.tags || []} />
+        <Content input={html} />
+        <hr/>
+        <h3>留言分享區</h3>
+        <h4 style={orangeFont}>十分歡迎大家將讀完的啟發分享出來，因為將自己所學寫下來並分享是很有效的學習方式喔！</h4>
+        <TalkyardCommentsIframe />
       </Container>
       <SuggestionBar>
         <PostSuggestion>
