@@ -25,7 +25,7 @@ const Index = ({ data }) => {
   return (
     <Layout>
       <Helmet title={'好書推薦網 | 首頁'} />
-      <Header title="好書推薦網">一週一推薦</Header>
+      <Header title="好書推薦網">每週一推薦</Header>
       <PostWrapper>
         {edges.map(({ node }) => (
           <PostList
