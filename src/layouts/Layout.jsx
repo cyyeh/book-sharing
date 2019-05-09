@@ -64,6 +64,11 @@ const Layout = ({ children }) => (
             flex-grow: 1;
           }
 
+          .resp-video-container {
+            position: relative;
+            overflow: hidden;
+          }
+
           ${headroom}
         `}
       />
