@@ -7,6 +7,10 @@ published: true
 tags: ['時間管理', '專注力', '解決問題能力']
 ---
 
+<div style="width: 30%; height: 30%; margin: 0 auto;">
+    <img src="cover.jpeg"/>
+</div>
+
 ## 為何我推薦這本書？
 
 這本書至少符合「好書」的其中兩個條件
@@ -40,7 +44,10 @@ Deep Work: How to Focus and Resist Distractions (with Cal Newport)
 - 如果您是Google Play Books的用戶，歡迎使用<a href="https://books.google.com.tw/books?id=B_L8CAAAQBAJ" target="_blank">此連結購買</a>
 
 想讀中文書
-- 如果您是Readmoo的用戶，歡迎使用<a href="http://moo.im/a/0akBLV" target="_blank">此連結購買</a>
-- 如果您是博客來的用戶，歡迎使用<a href="https://www.books.com.tw/products/0010758381" target="_blank">此連結購買</a>
-- 如果您是TAAZE的用戶，歡迎使用<a href="https://www.taaze.tw/usedList.html?oid=11100820224" target="_blank">此連結購買</a>
-- 如果您是Google Play Books的用戶，歡迎使用<a href="https://books.google.com.tw/books/about/Deep_Work%E6%B7%B1%E5%BA%A6%E5%B7%A5%E4%BD%9C%E5%8A%9B.html?id=c_sxDwAAQBAJ&redir_esc=y" target="_blank">此連結購買</a>
+- 新書
+    - 如果您是Readmoo的用戶，歡迎使用<a href="http://moo.im/a/0akBLV" target="_blank">此連結購買</a>
+    - 如果您是博客來的用戶，歡迎使用<a href="https://www.books.com.tw/exep/assp.php/cyyeh40423/products/0010758381?utm_source=cyyeh40423&utm_medium=ap-books&utm_content=recommend&utm_campaign=ap-201905" target="_blank">此連結購買</a>
+    - 如果您是TAAZE的用戶，歡迎使用<a href="https://www.taaze.tw/apredir.html?144150296/https://www.taaze.tw/goods/11100820224.html?a=b" target="_blank">此連結購買</a>
+    - 如果您是Google Play Books的用戶，歡迎使用<a href="https://books.google.com.tw/books/about/Deep_Work%E6%B7%B1%E5%BA%A6%E5%B7%A5%E4%BD%9C%E5%8A%9B.html?id=c_sxDwAAQBAJ&redir_esc=y" target="_blank">此連結購買</a>
+- 二手書
+    - 如果您是TAAZE的用戶，歡迎使用<a href="https://www.taaze.tw/usedList.html?oid=11100820224" target="_blank">此連結購買</a>
